@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "484788812220",
-    "project_id": "flyerdraft3",
-    "storage_bucket": "flyerdraft3.firebasestorage.app"
+    "project_number": "207628513166",
+    "project_id": "flyerdraft3cli",
+    "storage_bucket": "flyerdraft3cli.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:484788812220:android:bcb20e124b39083e5113b9",
+        "mobilesdk_app_id": "1:207628513166:android:1107e3ded6c35a82887edf",
         "android_client_info": {
           "package_name": "com.flyerdraft3cli"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDMaG1rUo-RBHonW7p-9V3xuDXMFEhW2cM"
+          "current_key": "AIzaSyAED7BOEDO6YYex6pd4NMvun_a-84qpoF8"
         }
       ],
       "services": {
